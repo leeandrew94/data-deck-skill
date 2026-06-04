@@ -11,13 +11,13 @@ Generate data-driven HTML slide decks from CSV/Excel files. Single-file output w
 ## Quick Start
 
 ```bash
-npx skills add https://github.com/YOUR_USERNAME/data-deck-skill --skill data-deck-skill
+npx skills add https://github.com/leeandrew94/data-deck-skill --skill data-deck-skill
 ```
 
 Or tell any AI Agent with shell access:
 
 ```
-Clone https://github.com/YOUR_USERNAME/data-deck-skill to ~/.claude/skills/data-deck-skill, then verify SKILL.md, assets/, and references/ exist.
+Clone https://github.com/leeandrew94/data-deck-skill to ~/.claude/skills/data-deck-skill, then verify SKILL.md, assets/, and references/ exist.
 ```
 
 After installation, just say:

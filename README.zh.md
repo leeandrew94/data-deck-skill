@@ -11,13 +11,13 @@
 ## 30 秒开始
 
 ```bash
-npx skills add https://github.com/YOUR_USERNAME/data-deck-skill --skill data-deck-skill
+npx skills add https://github.com/leeandrew94/data-deck-skill --skill data-deck-skill
 ```
 
 也可以直接把这段话发给有 shell 权限的 AI Agent：
 
 ```
-帮我安装 data-deck-skill。请把 https://github.com/YOUR_USERNAME/data-deck-skill 克隆到 ~/.claude/skills/data-deck-skill，安装完成后检查 SKILL.md、assets/、references/ 是否存在。
+帮我安装 data-deck-skill。请把 https://github.com/leeandrew94/data-deck-skill 克隆到 ~/.claude/skills/data-deck-skill，安装完成后检查 SKILL.md、assets/、references/ 是否存在。
 ```
 
 安装后直接对 Agent 说：
